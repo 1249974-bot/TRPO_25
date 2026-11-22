@@ -1,0 +1,11 @@
+body {
+    font-family: Arial;
+    background-color: black;
+    margin: 40px;
+}
+
+h {
+    color: skyblue;
+    border: 2px solid skyblue;
+    padding: 8px;
+}
